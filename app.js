@@ -37,6 +37,7 @@ const preamble = `
 \\usepackage{amsmath}
 \\usepackage{amssymb}
 \\usepackage{amsfonts}
+\\usepackage{xcolor}
 \\usepackage[utf8]{inputenc}
 `;
 
